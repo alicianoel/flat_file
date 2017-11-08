@@ -18,5 +18,9 @@ flattened.
 Usage:
   python create_flat_file.py --input_shp /path/to/input_shp.shp --flat_output_shp
   /path/to/flat_output_shp.shp 
-  
-  
+
+Before:
+![alt text](https://user-images.githubusercontent.com/9956952/32535933-f6a7998c-c410-11e7-9fb7-bc61a8ea5dfd.png)
+
+After:
+![alt text](https://user-images.githubusercontent.com/9956952/32535932-f67bdc0c-c410-11e7-960f-7c113dd3921b.png)
